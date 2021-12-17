@@ -1,5 +1,3 @@
-<head>
-//General styles
 * {
     margin: 0;
     padding: 0;
@@ -132,7 +130,7 @@ body {
       border: 3px solid;
       border-color: var(--text-decoration-color);
   }
-//Intro and skills styles
+
 .intro {
     display: flex;
     justify-content: start;
@@ -169,7 +167,7 @@ body {
     color: var(--secondary-text-color);
     text-align: justify;
 }
-//Experience and additonal info styles
+
 .experiences {
     flex: 1 1 60%;
     margin-right: 50px;
